@@ -38,7 +38,7 @@
 		<h1>Nani</h1>
 		<h1>Nomu</h1>
 		<h1>Prem</h1>
-        <img src="src="friends.jpg_to_image.jpg" >
+        <img src="src="friend/friends.jpg_to_friends.jpg" >
 		<alt="Fuckers" width="300" height="200">
     </div>
 </body>
